@@ -32,3 +32,6 @@ constraints:
 ## Bonus features
 
 - [x] User can enter a variable number of binary digits
+
+## Todo
+- [ ] Change Styled Components to Tailwindcss (or any other)
